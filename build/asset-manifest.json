@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.d8481e31.css",
+    "main.js": "/my-app/static/js/main.8324bfce.js",
+    "static/media/photo.png": "/my-app/static/media/photo.e7bf72f813c44f7b1219.png",
+    "static/media/guide.png": "/my-app/static/media/guide.4a4525232e658c8fbbcf.png",
+    "static/media/blog3.png": "/my-app/static/media/blog3.3a005984a9713fba6528.png",
+    "static/media/blog2.png": "/my-app/static/media/blog2.cb021990fec75fa2b8e4.png",
+    "static/media/blog1.png": "/my-app/static/media/blog1.2b3d3aaec50fa6e9936c.png",
+    "static/media/logo.svg": "/my-app/static/media/logo.b3f696bcec9c6572671e0e9b498711e9.svg",
+    "static/media/meet.svg": "/my-app/static/media/meet.db17a00bb16971905f487b16dc4f97e5.svg",
+    "static/media/pointer.svg": "/my-app/static/media/pointer.104717b9a71c96f43c51df084b426ecb.svg",
+    "static/media/social3.svg": "/my-app/static/media/social3.f61e05acbe5680ab6aeded696be6d1c4.svg",
+    "static/media/target.svg": "/my-app/static/media/target.82a1b0f92e0982d675c1dadf8259fc82.svg",
+    "static/media/people.svg": "/my-app/static/media/people.f7865350ed3aacd53a987287cde00ba9.svg",
+    "static/media/social1.svg": "/my-app/static/media/social1.94c699a64eae2c4aab39aa8a134a4dd4.svg",
+    "static/media/message.svg": "/my-app/static/media/message.cef6a422986c5ce6c4ad8c774a3c77d9.svg",
+    "static/media/madeBy.svg": "/my-app/static/media/madeBy.9613152e46c7cf229a184180cde38f4e.svg",
+    "static/media/star.svg": "/my-app/static/media/star.052f8d4567bfadbf62878779b37c98d2.svg",
+    "static/media/book.svg": "/my-app/static/media/book.2b6c08a0e17feb7a86760b735a4db8ce.svg",
+    "static/media/starBg.svg": "/my-app/static/media/starBg.67a27c2be3366a3adc84b4899d53e8f5.svg",
+    "index.html": "/my-app/index.html",
+    "static/media/social2.svg": "/my-app/static/media/social2.128ed0df7bf5d47b92a53a6ecf004eaa.svg",
+    "static/media/wave.svg": "/my-app/static/media/wave.8b1d3d596e42505753c5260c677ab70b.svg",
+    "main.d8481e31.css.map": "/my-app/static/css/main.d8481e31.css.map",
+    "main.8324bfce.js.map": "/my-app/static/js/main.8324bfce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8481e31.css",
+    "static/js/main.8324bfce.js"
+  ]
+}
